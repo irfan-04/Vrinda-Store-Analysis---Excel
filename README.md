@@ -22,7 +22,6 @@ Sample Insights
 - Maharashtra, Karnataka, and Uttar Pradesh are the top 3 states (35%)
 - Adult age group(25-64yrs) is max contributing (51%)
 - Amazon, Flipkart, and Myntra channels are max contributing (81%)
-FINAL CONCLUSION TO IMPROVE VRINDA STORE SALES:
 - Target Women customers of age group (25-64yrs) living in Maharashtra, Karnataka, and Uttar Pradesh by showing 
   ads/offers/coupons available on Amazon, Flipkart, and Myntra
 
