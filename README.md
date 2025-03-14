@@ -1,4 +1,3 @@
-Vrinda Store Sales Analysis - Excel Dashboard
 📌 Project Overview
 This project analyzes sales data from Vrinda Store, focusing on trends and key business insights. The dataset was cleaned, and various analyses were performed to answer critical business questions. The final insights are presented in an interactive Excel dashboard.
 
